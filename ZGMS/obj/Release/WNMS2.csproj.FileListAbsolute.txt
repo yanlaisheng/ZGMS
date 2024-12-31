@@ -1,0 +1,9 @@
+G:\桌面\人工湖项目\SRMS远程监控\WNMS2\WNMS2\WNMS2\bin\Release\WNMS2.exe
+G:\桌面\人工湖项目\SRMS远程监控\WNMS2\WNMS2\WNMS2\bin\Release\WNMS2.pdb
+G:\桌面\人工湖项目\SRMS远程监控\WNMS2\WNMS2\WNMS2\obj\Release\WNMS2.csproj.AssemblyReference.cache
+G:\桌面\人工湖项目\SRMS远程监控\WNMS2\WNMS2\WNMS2\obj\Release\WNMS2.Form1.resources
+G:\桌面\人工湖项目\SRMS远程监控\WNMS2\WNMS2\WNMS2\obj\Release\WNMS2.Properties.Resources.resources
+G:\桌面\人工湖项目\SRMS远程监控\WNMS2\WNMS2\WNMS2\obj\Release\WNMS2.csproj.GenerateResource.cache
+G:\桌面\人工湖项目\SRMS远程监控\WNMS2\WNMS2\WNMS2\obj\Release\WNMS2.csproj.CoreCompileInputs.cache
+G:\桌面\人工湖项目\SRMS远程监控\WNMS2\WNMS2\WNMS2\obj\Release\WNMS2.exe
+G:\桌面\人工湖项目\SRMS远程监控\WNMS2\WNMS2\WNMS2\obj\Release\WNMS2.pdb

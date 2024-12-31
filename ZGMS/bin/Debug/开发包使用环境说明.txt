@@ -1,0 +1,4 @@
+DSC开发包中的动态库wcomm_dll.dll是在VC7.0基础上进行编译的，需要在windows平台，.net环境下使用。如果用户没有安装.net环境，使用时必须将开发包中的MFC库文件拷贝到用户执行程序相同的目录中。
+MFC71.dll
+MFC71u.dll
+msvcr71.dll
